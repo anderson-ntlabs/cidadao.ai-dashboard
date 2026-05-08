@@ -45,7 +45,7 @@ netlify deploy --prod --dir=.next
 ### Option B: Deploy to Render
 1. Create account at render.com
 2. New > Static Site
-3. Connect GitHub: anderson-ufrj/cidadao.ai-dashboard
+3. Connect GitHub: anderson-ntlabs/cidadao.ai-dashboard
 4. Build Command: `npm run build && npm run export`
 5. Publish Directory: `out`
 

@@ -311,7 +311,7 @@ git push origin feature/amazing-feature
 
 - **Docs**: Ver README.md, ARCHITECTURE.md, INTEGRATION.md
 - **Issues**: GitHub Issues
-- **Backend**: https://github.com/anderson-ufrj/cidadao.ai-backend
+- **Backend**: https://github.com/anderson-ntlabs/cidadao.ai-backend
 
 ---
 

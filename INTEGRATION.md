@@ -571,4 +571,4 @@ async function fetchWithRetry(url: string, retries = 3) {
 **Need Help?** 
 - Check `ARCHITECTURE.md` para detalhes técnicos
 - See `README.md` para comandos e troubleshooting
-- Backend repo: https://github.com/anderson-ufrj/cidadao.ai-backend
+- Backend repo: https://github.com/anderson-ntlabs/cidadao.ai-backend

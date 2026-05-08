@@ -328,7 +328,7 @@ MIT
 
 ## 📚 Resources
 
-- [Cidadão.AI Backend](https://github.com/anderson-ufrj/cidadao.ai-backend)
+- [Cidadão.AI Backend](https://github.com/anderson-ntlabs/cidadao.ai-backend)
 - [Next.js Docs](https://nextjs.org/docs)
 - [SWR Documentation](https://swr.vercel.app)
 - [Cytoscape.js](https://js.cytoscape.org/)

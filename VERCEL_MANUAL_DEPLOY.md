@@ -39,7 +39,7 @@ vercel --prod
 2. **Crie um novo projeto**:
    - Clique em "New Project"
    - Import Git Repository
-   - Escolha: `anderson-ufrj/cidadao.ai-dashboard`
+   - Escolha: `anderson-ntlabs/cidadao.ai-dashboard`
 
 3. **Configure manualmente**:
    - Framework Preset: `Next.js`
@@ -128,7 +128,7 @@ No Vercel Dashboard → Settings → Environment Variables:
 
 - **Vercel Support**: https://vercel.com/help
 - **Status Page**: https://vercel-status.com
-- **GitHub Issues**: https://github.com/anderson-ufrj/cidadao.ai-dashboard/issues
+- **GitHub Issues**: https://github.com/anderson-ntlabs/cidadao.ai-dashboard/issues
 
 ## ✅ Teste de Sucesso
 

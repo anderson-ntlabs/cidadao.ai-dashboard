@@ -4,7 +4,7 @@
 
 ### Opção 1: Deploy com 1 Click (Mais Fácil)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/SEU-USUARIO/cidadao-dashboard&env=NEXT_PUBLIC_API_URL&envDescription=URL%20do%20backend%20Cidadao.AI&envLink=https://github.com/anderson-ufrj/cidadao.ai-backend)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/SEU-USUARIO/cidadao-dashboard&env=NEXT_PUBLIC_API_URL&envDescription=URL%20do%20backend%20Cidadao.AI&envLink=https://github.com/anderson-ntlabs/cidadao.ai-backend)
 
 ### Opção 2: Deploy via Script (Automatizado)
 

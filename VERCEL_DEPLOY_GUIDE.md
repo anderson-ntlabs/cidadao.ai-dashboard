@@ -14,7 +14,7 @@
 
 ### Passo 2: Criar Novo Projeto
 1. Clique em **"Add New..."** → **"Project"**
-2. Importe do GitHub: `anderson-ufrj/cidadao.ai-dashboard`
+2. Importe do GitHub: `anderson-ntlabs/cidadao.ai-dashboard`
 3. Aguarde a importação
 
 ### Passo 3: Configurações do Build
@@ -90,7 +90,7 @@ Crie um novo `vercel.json` minimalista:
 ### Opção D: Contatar Suporte
 - https://vercel.com/help
 - Mencione: "Build success but fails at 'Deploying outputs' phase"
-- Projeto: anderson-ufrj/cidadao.ai-dashboard
+- Projeto: anderson-ntlabs/cidadao.ai-dashboard
 
 ## 📊 Informações do Build
 
